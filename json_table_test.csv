@@ -1,0 +1,41 @@
+,date_received,company_name,location,county,region,type,layoff_date,#_affected
+1,07/06/17,"SunEdison, Inc.",St. Louis,St. Louis County,St. Louis County,Layoff,07/10/2017,6
+2,07/24/17,"Neuterra d/b/a Fulton Medical Center (""Hospital"")",Fulton,Callaway,Central,Closing,09/22/2017,158
+3,07/31/17,Lozier Corporation,Union,Franklin,Jefferson/Franklin Consortium,Closing,"10/06/2017 -
+			Fall 2017",92
+4,08/03/17,"Diodes Fabtech, Inc.",Lee's Summit,Jackson,Kansas City & Vicinity,Closing,10/06/2017,167
+5,08/16/17,Frontier Communications Corporation,Weldon Spring,St. Charles,St. Charles County,Closing,10/16/2017 - 10/20/2017,141
+6,09/20/17,Positronic Industries Inc.,Mt. Vernon,Lawrence,Southwest,Layoff,12/01/2017,97
+7,10/10/17,TD Ameritrade Corp.  (updated 08-22-2018),Multiple Locations,Multiple Locations,Multiple Locations,Layoff,11/21/2017,1208
+8,10/20/17,"Zhongding Sealing Parts (USA), Inc. d/b/a Buckhorn Rubber Products",Hannibal,Ralls,Northeast,Closing,12/22/2017,119
+9,10/27/17,Amcor Rigid Plastics USA LLC (updated 12-27-2017),Jefferson City,Cole,Central,Layoff,12/29/2017-3/29/2018,72
+10,11/02/17,Kmart,Independence,Jackson,Kansas City & Vicinity,Closing,01/21/2018,62
+11,11/07/17,"Kindred Hospitals East, LLC d/b/a Kindred Hospital",Kansas City,Jackson,Kansas City & Vicinity,Closing,01/06/2018-01/20/2018,115
+12,11/16/17,"HM Dunn AeroSystems, Incorporated",St. Louis,St. Louis City,St. Louis City,Closing,01/28/18,53
+13,11/20/17,Sedgwick LLP,Kansas City,Jackson,Kansas City & Vicinity,Closing,01/20/2018,75
+14,12/05/17,"Knappco, Inc.",Riverside,Platte,Kansas City & Vicinity,Closing,02/12/2018,58
+15,12/14/17,"AT&T Communications, Inc.",Kansas City,Jackson,Kansas City & Vicinity,Layoff,02/17/2018,87
+16,12/15/17,"Talbot (Leggett & Platt, Inc.)",Neosho,Newton,Southwest,Closing,02/13/2018,130
+17,12/15/17,"Armstrong Energy, Inc.",St. Louis,St. Louis County,St. Louis County,Closing,02/14/2018,8
+18,01/05/18,"ConAgra Foods, Inc. (Updated 01-30-2018)",Trenton,Grundy,Northwest,Closing,03/09/2018-05/31/2018,282
+19,01/11/18,"Moon Ridge Foods, LLC",Pleasant Hope,Polk,Southwest,Layoff,01/11/2018,240
+20,01/26/18,"Serco, Inc.",Wentzville,St. Charles County,St. Charles County,Closing,06/30/2018,660
+21,02/02/18,ASM Research,St. Louis,St. Louis City,St. Louis City,Closing,03/27/2018,14
+22,02/02/18,"Cognosante, LLC (Updated 03-26-2018)",Wentzville,St. Charles County,St. Charles County,Closing,04/06/2018,84
+23,02/20/18,Convergys Corporation,Arnold,Jefferson/Franklin Consortium,Jefferson County,Closing,04/30/2018,319
+24,03/15/18,"Toys ""R"" Us (Updated 05-15-2018)",Lee's Summit,Jackson County,Kansas City & Vicinity,Closing,05/14/2018,191
+25,03/23/18,Eagle Foods,Seneca,Newton,Southwest,Closing,06/06/2018,39
+26,04/18/18,ABB Inc. (Updated 08-08-2018),St. Louis,St. Louis City,St. Louis City,Layoff,"May 31, 2018",82
+27,04/19/18,Select Medical Corporation,Kansas City,Jackson,Kansas City & Vicinity,Closing,"May 18, 2018",105
+28,04/27/18,"Claycomo Releasing, Inc. (Updated 05-10-2018)",Claycomo,Clay,Kansas City & Vicinity,Closing,"June 30, 2018",172
+29,04/30/18,"Twin Rivers Regional Medical Center - Kennett HMA Physicians Management, LLC",Kennett,Dunklin,Southeast,Closing,"June 30, 2018",16
+30,04/30/18,"Twin Rivers Regional Medical Center - Kennett HMA, LLC",Kennett,Dunklin,Southeast,Closing,"June 30, 2018",259
+31,05/10/18,Cassens Transport Company,Claycomo,Clay,Kansas City & Vicinity,Closing,"June 30, 2018",29
+32,05/18/18,"Car City Motor, Inc.",St. Joseph,Buchanan,Northwest,Closing,"June 18, 2018",74
+33,05/30/18,"Aramark Campus Services, LLC - Saint Louis University",St. Louis,St. Louis,St. Louis,Closing,"July 31, 2018",188
+34,05/29/18,"Harley Davidson Motor Company, Inc. - Kansas City",Kansas City,Jackson,Kansas City & Vicinity,Closing,"August 3, 2018",180
+35,06/15/18,Hard Rock Cafe - St. Louis,St. Louis,St. Louis City,St. Louis City,Closing,"August 16, 2018",57
+36,06/15/18,syncreon U.S.,Kansas City,Kansas City,Kansas City & Vicinity,Layoff,"August 17, 2018",207
+37,06/28/18,State Farm Mutual Automobile Insurance Company - Earth City,Earth City,St. Louis County,St. Louis County,Closing,"August 31, 2018",136
+38,06/29/18,"American Airlines, Inc. - St. Louis Pilot Crew Base",St. Louis,St. Louis,St. Louis,Closing,"September 3, 2018",155
+39,,,,,,,TOTAL,6137
